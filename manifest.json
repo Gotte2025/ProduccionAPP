@@ -1,0 +1,37 @@
+{
+  "name": "A&W S.R.L. — Sistema de Producción",
+  "short_name": "A&W Producción",
+  "description": "Sistema de Producción de Aditivos A&W S.R.L.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#185FA5",
+  "theme_color": "#185FA5",
+  "icons": [
+    {
+      "src": "./logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "./logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
